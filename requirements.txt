@@ -1,7 +1,15 @@
-# Main requirements
-sentry == 7.2.0
+# celery
+# sentry == 7.7.4
+psycopg2 == 2.5.0
+
+sentry == 8.0.3
+
+sentry-slack
+sentry-github
+sentry-twilio
+sentry-gitlab
+sentry-redmine
+
 newrelic
-# Requirements for config files
+
 dj-database-url
-# Requirements due errors when running sentry
-psycopg2
