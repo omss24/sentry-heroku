@@ -1,5 +1,13 @@
-Sentry 7 running on Heroku
+Sentry 8 running on Heroku
 ========================
+
+With Plugins:
+sentry-slack
+sentry-github
+sentry-twilio
+sentry-gitlab
+sentry-redmine
+
 
 Using this as base repo you can easily deploy sentry on heroku
 
