@@ -9,7 +9,5 @@ sentry-github
 sentry-twilio
 sentry-gitlab
 sentry-redmine
-
 newrelic
-
 dj-database-url
