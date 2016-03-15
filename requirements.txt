@@ -2,7 +2,7 @@
 # sentry == 7.7.4
 psycopg2 == 2.5.0
 
-sentry == 8.0.3
+sentry == 8.2.3
 
 sentry-slack
 sentry-github
